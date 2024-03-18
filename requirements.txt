@@ -1,0 +1,7 @@
+ultralytics
+torch
+numpy
+streamlit
+opencv-python
+streamlit-webrtc
+tensorflow
